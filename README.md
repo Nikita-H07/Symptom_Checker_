@@ -27,7 +27,7 @@ To get started with the Symptom Checker Chatbot, follow these steps:
 1. Clone the repository to your local machine:
 
    ```
-   git clone https://github.com/your-username/symptom-checker-chatbot.git
+   git clone https://github.com/your-username/Symptom_Checker_.git
    ```
 
 2. Install the required dependencies:
@@ -87,7 +87,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 
-For questions or collaboration opportunities, feel free to contact us at monishkumarpecai@gmail.com.
+For questions or collaboration opportunities, feel free to contact us at nikita.h.0745@gmail.com.
 
 ---
 
